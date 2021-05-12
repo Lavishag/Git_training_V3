@@ -1,3 +1,1 @@
-git revert sample 2
-
 this is sample file 2
